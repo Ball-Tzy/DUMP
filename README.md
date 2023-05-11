@@ -2,16 +2,12 @@
 
 <h5 align="left">CARA INSTALL SCRIPT:</h5>
 
+
     $ pkg update && pkg upgrade
-
     $ pkg install python git
-
-    $ rm -rf dump
-
+    $ rm -rf DUMP
     $ git clone https://github.com/Ball-Tzy/DUMP
-
     $ cd DUMP
-
     $ python dump.py
 
 - Oke sekarang script sudah berhasil di ```install```
@@ -20,17 +16,14 @@
 
 sekarang karena script sudah ```diinstall``` tinggal kita jalankan, ketikan perintah dibawah ini
 
+
     $ cd $HOME/DUMP
-
     $ git pull
-
-    $ python dump
-
--Notice me: ```Hasil Dump Tersimpan Di dump/.txt```
+    $ python dump.py
 
 - Notice me: ```Anda bisa memberikan rezeki kepada owner SC``` <a href="https://wa.me/+62895383371377">Klik disini</a>
 
-- Notice me: ```Ini sc Dump Bukan Crack!!!```
+- Notice me: ```Ini sc Dump Bukan Crack!!!, Hasil Dump Tersimpan Di folder dump/.txt```
 
 <h5 align="left">LOGIN COOKIE:</h5>
 
